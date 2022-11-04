@@ -12,3 +12,19 @@ pip3 install --upgrade pip
 ```
 pip3 install -r requirements.txt
 ```
+
+
+
+
+
+
+## Γλωσσάρι
+
+Raster image = Ψηφιογραφική ή ψηφιδωτή εικόνα
+
+
+
+## TODO
+
+* Use sidecar: https://github.com/jupyter-widgets/jupyterlab-sidecar
+* Create a non-OOP version to accomodate objectophobics
